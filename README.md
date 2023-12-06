@@ -1,4 +1,4 @@
-# GenP_Git
+# Commands used in the task
 
 - `git clone https://github.com/JiyaVe/GenP_task2`<br>
 - Github Repo created<br>
